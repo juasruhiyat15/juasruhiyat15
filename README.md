@@ -1,7 +1,7 @@
-![MasterHead](https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Juas Ruhiyat</h1>
 <h3 align="center">Be Yourselft!</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 - 📫 How to reach me **juasruhiyat@student.hamzanwadi.ac.id**
 
