@@ -1,6 +1,6 @@
 ![MasterHead](https://media.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Juas Ruhiyat</h1>
-<h3 align="center">Pasukan Titik Koma!</h3>
+<h3 align="center">Be Yourselft!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **juasruhiyat@student.hamzanwadi.ac.id**
