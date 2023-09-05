@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juas Ruhiyat</h1>
-<h3 align="center">Saya Suka Belajar!</h3>
+<h3 align="center">Pasukan Titik Koma!</h3>
 
 - 📫 How to reach me **juasruhiyat@student.hamzanwadi.ac.id**
 
